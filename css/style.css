@@ -131,6 +131,11 @@ a:hover,a:focus,a.active{
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before{
 	margin-left: 0px !important;
 }
+
+.shaddy {
+  text-shadow: 1px 1px #00000050;
+}
+
 /*=====================================================================================
 02.		Default Margin and Padding
 ========================================================================================*/
