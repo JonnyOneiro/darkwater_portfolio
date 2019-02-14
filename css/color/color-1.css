@@ -64,7 +64,7 @@
 	color: #fff;
 }
 .nav-scroll .navbar-light .navbar-brand{
-	color: #1e283c;
+	color: #e1e1e1;
 }
 .navbar-nav .nav-item .nav-link:before{
 	background-color: #00cad6;
@@ -76,7 +76,7 @@
 	color: #00cad6;
 }
 .nav-scroll .navbar-light .navbar-nav .nav-link{
-	color: #1e283c
+	color: #e1e1e1;
 }
 .dark_nav.nav-scroll{
 	background-color: #232323 !important;
