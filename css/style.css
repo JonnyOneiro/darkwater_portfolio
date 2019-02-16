@@ -145,6 +145,15 @@ a:hover,a:focus,a.active{
   width: 75px
 }
 
+.indent {
+  text-indent: 2em;
+}
+
+.space-around {
+  display: flex;
+  justify-content: space-around;
+}
+
 /*=====================================================================================
 02.		Default Margin and Padding
 ========================================================================================*/
