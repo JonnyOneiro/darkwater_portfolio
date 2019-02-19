@@ -132,6 +132,19 @@ a:hover,a:focus,a.active{
 	margin-left: 0px !important;
 }
 
+.modal-full {
+  min-width: 100%;
+  margin: 0;
+  background-color: #333;
+  color: #ddd;
+}
+
+.modal-full .modal-content {
+  min-height: 100vh;
+  background-color: #333;
+
+}
+
 .shaddy {
   text-shadow: 1px 1px #00000090;
 }
@@ -154,14 +167,7 @@ a:hover,a:focus,a.active{
   justify-content: space-around;
 }
 
-.modal-full {
-  min-width: 100%;
-  margin: 0;
-}
 
-.modal-full .modal-content {
-  min-height: 100vh;
-}
 
 /*=====================================================================================
 02.		Default Margin and Padding
