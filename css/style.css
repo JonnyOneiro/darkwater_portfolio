@@ -313,20 +313,20 @@ a:hover,a:focus,a.active{
 
  /* - home hero image  */
 .background1{
-  background-image: url(../images/background/003.jpg);
+  background-image: url(https://res.cloudinary.com/legaci/image/upload/v1555362737/portfolio/003.jpg);
 }
 .background2{
-    background: url(../images/background/003.jpg) no-repeat center fixed;
+    background: url(https://res.cloudinary.com/legaci/image/upload/v1555362737/portfolio/003.jpg) no-repeat center fixed;
 }
 /* .background3{
-  background-image: url(../images/background/003.jpg);
+  background-image: url(https://res.cloudinary.com/legaci/image/upload/v1555362737/portfolio/003.jpg);
 }
 .background4{
-  background-image: url(../images/background/003.jpg);
+  background-image: url(https://res.cloudinary.com/legaci/image/upload/v1555362737/portfolio/003.jpg);
 }
   /* - home hero image  */
 .background5{
-  background-image: url(../images/background/003.jpg);
+  background-image: url(https://res.cloudinary.com/legaci/image/upload/v1555362737/portfolio/003.jpg);
 } */
 
 /*====================================================================
